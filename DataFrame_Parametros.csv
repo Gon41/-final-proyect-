@@ -1,0 +1,388 @@
+,Identificador,Nombre,Latitud,Longitud
+0,Museo de Arte,Museo Nacional Centro de Arte Reina Sofía (MNCARS),40.40873653580899,-3.693821769507456
+1,Museo de Arte,Museo Thyssen-Bornemisza,40.41635928605382,-3.694890813655885
+2,Museo de Arte,Museo Nacional del Prado,40.413978006085095,-3.6921894550323486
+3,Museo de Arte,CaixaForum Madrid,40.41101269430034,-3.6931765079498287
+4,Museo de Arte,Espacio Fundación Telefónica,40.42039156250055,-3.7016173551704163
+5,Museo de Arte,Palacio de Gaviria,40.41713929663129,-3.7060442727377434
+6,Museo de Arte,Palacio de Velázquez,40.415139,-3.681975
+7,Museo de Arte,Palacio de Linares - Casa de América,40.42025376612304,-3.6918272477800964
+8,Museo de Arte,Palacio Real de Madrid,40.417939720108535,-3.7142586708068848
+9,Museo de Arte,Edificio Nouvel,40.407362,-3.6946779999999997
+10,Museo de Arte,Museo Cerralbo,40.423884219743115,-3.7147057160461543
+11,Museo de Arte,Real Academia de Bellas Artes de San Fernando,40.417545872054006,-3.7003524388561027
+12,Museo de Arte,Museo Sorolla,40.43524755218695,-3.6923740608315794
+13,Museo de Arte,Central de Diseño / DIMAD,40.39201538087328,-3.6968269050224034
+14,Museo de Arte,Museo Naval de Madrid,40.417720632890976,-3.693210910420808
+15,Museo de Arte,Fundación Juan March,40.431018056999996,-3.681080347
+16,Museo de Arte,Sala de Exposiciones Alcalá 31,40.41829484495374,-3.6982584305257324
+17,Museo de Arte,Casa de México en España,40.430086637179365,-3.7095205485820766
+18,Museo de Arte,Fundación Mapfre Bárbara de Braganza,40.42335591605433,-3.691982788793571
+19,Museo de Arte,Museo de Escultura al Aire Libre de La Castellana,40.43323307938413,-3.688734156259141
+20,Museo de Arte,Museo Nacional de Artes Decorativas,40.41806232403098,-3.6897883706624848
+21,Museo de Historia,Museo Arqueológico Nacional (MAN),40.42325921497665,-3.6884316838635116
+22,Museo de Historia,Imprenta Municipal,40.41366332123668,-3.7054478005352416
+23,Museo de Historia,Museo Naval de Madrid,40.417720632890976,-3.693210910420808
+24,Museo de Historia,Templo de Debod,40.4241644119136,-3.716843393279901
+25,Museo de Historia,Museo Sorolla,40.43524755218695,-3.6923740608315794
+26,Museo de Historia,Museo de Historia (Museo Municipal de Madrid),40.425690338290416,-3.7009721143035392
+27,Museo de Historia,Andén Cero,40.43233402736354,-3.6976789573074513
+28,Museo de Historia,Museo Lázaro Galdiano,40.436928528858616,-3.686185970297562
+29,Museo de Historia,Museo Nacional de Artes Decorativas,40.41806232403098,-3.6897883706624848
+30,Museo de Historia,Museo de San Isidro. Los orígenes de Madrid,40.41222482309222,-3.7107437815896014
+31,Museo de Historia,Museo del Romanticismo,40.42580188257195,-3.6988496877961534
+32,Museo de Historia,Museo de América,40.437810739375614,-3.7219191134537453
+33,Museo de Historia,Museo de los Caños del Peral,40.418073909563276,-3.7094217700772947
+34,Museo de Historia,Museo Nacional Centro de Arte Reina Sofía (MNCARS),40.40873653580899,-3.693821769507456
+35,Museo de Historia,Museo Nacional de Antropología,40.407529256683524,-3.68887598553334
+36,Museo de Historia,Museo de Cera,40.424942007686575,-3.6913515125841214
+37,Museo de Historia,Muralla İslamica de Madrid,40.414745,-3.714719
+38,Museo de Historia,Museo de la Biblioteca Nacional de España,40.423297,-3.690469
+39,Museo de Historia,Archivo Regional de la Comunidad de Madrid,40.39957992587171,-3.690020911149679
+40,Museo de Historia,Fundacion Infante De Orleans Cuatro Vientos,40.36774063103272,-3.7751276412944463
+41,Escultura Exterior,Luminoso tío pepe,40.41677112290821,-3.703343659724496
+42,Escultura Exterior,Monumento a miguel de cervantes,40.415615,-3.6965072
+43,Escultura Exterior,Casa de papá noel,40.416033826130594,-3.704200914639627
+44,Escultura Exterior,Ángel estrellado,40.415672302246094,-3.709996461868286
+45,Escultura Exterior,Stormtrooper #facetheforce,40.408771,-3.693228
+46,Escultura Exterior,Monumento a jacinto benavente,40.415261,-3.6870629999999998
+47,Escultura Exterior,Casco resistance pilot,40.42321186543676,-3.711123903856017
+48,Escultura Exterior,Captain phasma #facetheforce,40.422420067343594,-3.688292035165986
+49,Escultura Exterior,Monumento a don blas de lezo y olavarrieta,40.423825640021185,-3.688931068399103
+50,Escultura Exterior,Casco captain phasma,40.42535781860352,-3.691073656082153
+51,Escultura Exterior,Imperial pilot #facetheforce,40.40098,-3.6996290000000003
+52,Escultura Exterior,Al pueblo del dos de mayo,40.42320302014196,-3.7146576196182592
+53,Escultura Exterior,Darth vader #facetheforce,40.42942,-3.702636
+54,Escultura Exterior,Puerta de sainz de baranda,40.417069,-3.6785730000000005
+55,Escultura Exterior,Puerta de herrero palacios,40.414833,-3.6777830000000002
+56,Escultura Exterior,Monumento a sor juana inés de la cruz,40.418141166529296,-3.7255923881059063
+57,Escultura Exterior,La mano de botero,40.441176125291726,-3.691591316784133
+58,Escultura Exterior,Monumento a bravo murillo,40.43883790334018,-3.7039729726094808
+59,Escultura Exterior,Los portadores de la antorcha,40.443877,-3.726062
+60,Escultura Exterior,Estatua de julian besteiro,40.447540999999994,-3.6807
+61,Escultura Exterior,Monumento  josé martí,40.45004285289405,-3.689778171412861
+62,Escultura Exterior,Busto de beethoven en el parque de berlin,40.450696105605296,-3.676122223399171
+63,Escultura Exterior,Monumento a vicente aleixandre,40.445935999999996,-3.7143599999999997
+64,Escultura Exterior,Monumento a calvo sotelo,40.457461,-3.7070550000000004
+65,Escultura Exterior,Monumento a las victimas del terrorismo,40.458989,-3.677032
+66,Escultura Exterior,Viaje interior,40.461183,-3.6029989999999996
+67,Estadio de Fútbol,Estadio Santiago Bernabéu,40.4530621561316,-3.6883378028869616
+68,Estadio de Fútbol,Estadio Wanda Metropolitano,40.436212,-3.5995470000000003
+69,Estadio de Fútbol,Estadio Municipal de Butarque,40.340329388127635,-3.760607242584229
+70,Estadio de Fútbol,Vip Area Champions League,40.45322704480997,-3.688688333894162
+71,Estadio de Fútbol,IDM Lili Alvarez,40.406029369192744,-3.6298227310180655
+72,Estadio de Fútbol,Estadio Román Valero,40.38845816256328,-3.7052303552627563
+73,Estadio de Fútbol,Estadio Antonio Sanfiz,40.458617450160396,-3.7792941703564304
+74,Estadio de Fútbol,Escuela De Fútbol El Horrillo (Polideportivo La Cantera),40.339522652272244,-3.7625084377754243
+75,Restaurante Español,Toga,40.41111841899132,-3.70667299456038
+76,Restaurante Español,El Barril de las Letras,40.41435989216732,-3.696713435336063
+77,Restaurante Español,Casa Pueblo,40.414613812304566,-3.6985981117031455
+78,Restaurante Español,Astór Gastrobar,40.412729999999996,-3.7096169999999997
+79,Restaurante Español,El Paraguas,40.42386542247894,-3.6858135323939885
+80,Restaurante Español,Cannibal Raw Bar,40.42250153573088,-3.6942481725337766
+81,Restaurante Español,Restaurante Viva Madrid,40.41516746717612,-3.699833628259341
+82,Restaurante Español,Bodegas Rosell,40.40380252043165,-3.6906202941279647
+83,Restaurante Español,Mercado de Antón Martín,40.41152590000001,-3.6987288
+84,Restaurante Español,Bar La Campana,40.414881954231625,-3.706774570000363
+85,Restaurante Español,Pez Tortilla,40.4242382067626,-3.706568309829162
+86,Restaurante Español,La Maruca,40.42747655521919,-3.6839650810190783
+87,Restaurante Español,La Manduca de Azagra,40.428413255,-3.69965323
+88,Restaurante Español,Membibre,40.434911771333695,-3.7131862406723166
+89,Restaurante Español,Las Tortillas de Gabino,40.433971269705076,-3.693840964089531
+90,Restaurante Español,Museo del Jamón,40.41634303650022,-3.705682248281336
+91,Restaurante Español,Venta El Buscón,40.41611688876583,-3.7017447829143073
+92,Restaurante Español,El Senador,40.4207696667416,-3.7114585151950714
+93,Restaurante Español,La Tasquería,40.42238601054716,-3.673697687593717
+94,Restaurante Español,Muñagorri,40.43129825360115,-3.677328070342784
+95,Restaurante Español,Restaurante Lakasa,40.440735363841156,-3.7007667352654936
+96,Restaurante Español,Cabreira,40.42735906133265,-3.703984753046375
+97,Restaurante Español,Cañadío,40.43317244542708,-3.6750356626014846
+98,Restaurante Español,Castelados,40.42070698286369,-3.679090486759312
+99,Restaurante Español,Lamucca,40.42316034658215,-3.704059721786604
+100,Restaurante Español,El Pimiento Verde,40.428865543369945,-3.715401404418008
+101,Restaurante Español,Cuevas El Secreto,40.41571802886517,-3.7026156381668383
+102,Restaurante Español,El Gran Barril,40.42455179459415,-3.6731258506053215
+103,Restaurante Español,Makkila Serrano,40.435157917226896,-3.686353353436428
+104,Restaurante Español,TreZe Restaurante & Bar,40.427188476455505,-3.678429449556118
+105,Restaurante Español,la gaditana,40.42486448041017,-3.670859723201479
+106,Restaurante Español,O Pazo de Lugo,40.407589,-3.696473
+107,Restaurante Español,La Casa del Abuelo,40.4158078467863,-3.7015932511078464
+108,Restaurante Español,La Antoñita,40.4130849147541,-3.7085505691060217
+109,Restaurante Español,Casa Benigna,40.44809073514549,-3.674226588620277
+110,Restaurante Español,Mallorca,40.42120479582698,-3.688435136949225
+111,Restaurante Español,ORIO Fuencarral,40.42374791814849,-3.7007171665504197
+112,Restaurante Español,Restaurante El Urogallo,40.418807569928816,-3.734702654873999
+113,Restaurante Español,Puerto Lagasca,40.431219885426884,-3.6851105188799234
+114,Restaurante Español,Okafú,40.42373014673907,-3.6836658076540942
+115,Restaurante Español,Lateral,40.41457050395633,-3.701133477680609
+116,Restaurante Español,En Busca del Tiempo,40.415625674100674,-3.7026008957413463
+117,Restaurante Español,KultO,40.41838587249439,-3.678222894465272
+118,Restaurante Español,Casa Mingo,40.42482903955803,-3.725446671900649
+119,Restaurante Español,Sagardi Castellana,40.427910078496474,-3.6899738493773575
+120,Restaurante Español,La Tasquita de Enfrente,40.421278637837744,-3.703591776077448
+121,Restaurante Español,InClan Brutal Bar,40.41502338061646,-3.701864366144517
+122,Restaurante Español,La Máquina de Chamberí,40.44009910412479,-3.699192310387631
+123,Restaurante Español,Mesón Txistu,40.462533582532714,-3.6935548164165515
+124,Restaurante Español,La Casita del Pradal,40.45850905045048,-3.6553703632754124
+125,Restaurante Español,Rosi La Loca,40.415821011717526,-3.702954604432628
+126,Restaurante Español,De María,40.46340844911063,-3.6882601044052623
+127,Restaurante Español,Casa de Valencia,40.429916808561934,-3.722415498649063
+128,Restaurante Español,El Qüenco de Pepa,40.460250549345105,-3.684550516431476
+129,Restaurante Español,Restaurante Rías Bajas,40.442597583525774,-3.6713163349261633
+130,Restaurante Español,Viavélez,40.452314878141024,-3.698101601378815
+131,Restaurante Español,La Ancha,40.449069485879505,-3.67765932432278
+132,Restaurante Español,Ondiñas do Mendo,40.45688307624961,-3.7051649232278328
+133,Restaurante Español,Paraíso del Jamon,40.417761417161714,-3.708355925075935
+134,Restaurante Español,Casa Juan,40.464015,-3.69317
+135,Restaurante Español,El Hórreo Asturiano,40.46238984809028,-3.6876584378337895
+136,Restaurante Español,El Cacique,40.46258697891609,-3.685273363777068
+137,Restaurante Español,Macarena Madrid,40.390632399999994,-3.6912615999999616
+138,Restaurante Español,Casa Labra,40.41715,-3.7045142999999996
+139,Restaurante Español,El Escondite,40.42236354072943,-3.6859754610885864
+140,Restaurante Español,La Raquetista,40.42046271831923,-3.6771653141330463
+141,Restaurante Español,Mercado de San Ildefonso,40.424230106070134,-3.700819251110139
+142,Restaurante Español,Casa Lobo,40.451619980016424,-3.6497486811054713
+143,Restaurante Español,Alimentación Quiroga,40.41375972219944,-3.699457458558817
+144,Restaurante Español,Carmen Bar,40.42798439468249,-3.6861649448167486
+145,Restaurante Español,Casa Dani,40.42709585947917,-3.6857193669863895
+146,Restaurante Español,Laredo,40.420312607236255,-3.675158669395069
+147,Restaurante Español,Loreto Coffee-Bar,40.42189368778602,-3.7044925983224224
+148,Restaurante Español,Urrechu,40.419435256344926,-3.796979972262077
+149,Restaurante Español,Juan Raro,40.407007881585116,-3.701080581925
+150,Restaurante Español,Vivares,40.42239625203632,-3.699420851765258
+151,Restaurante Español,Platea Madrid,40.426083288965,-3.68866416486341
+152,Restaurante Español,La Bobia,40.411389879279064,-3.7076682972878494
+153,Restaurante Español,La Tita Rivera,40.4223637850214,-3.700369187656969
+154,Restaurante Español,Sala de Despiece,40.43791464602439,-3.699404489286633
+155,Restaurante Español,O'Buraco,40.439775,-3.676111
+156,Restaurante Español,El Recuerdo,40.44722910729116,-3.6985534333258654
+157,Restaurante Español,Matador,40.4146306440801,-3.7029469756383695
+158,Restaurante Español,Restaurante Ferreiro,40.42170061418621,-3.721648614221445
+159,Restaurante Español,Jaizkibel,40.43888537380006,-3.6226297293835623
+160,Restaurante Español,Trasgu,40.39744996061972,-3.620755577527213
+161,Restaurante Español,Cervecería Jarritus,40.43027092237046,-3.6643420677700576
+162,Restaurante Español,Restaurante Triana,40.419663858612644,-3.676106334700902
+163,Restaurante Español,Ten Con Ten,40.42788094496709,-3.6884764005263433
+164,Restaurante Español,La Pequeña Graná,40.39957392916725,-3.698549973932148
+165,Restaurante Español,La Cumbre,40.437495375777424,-3.793065879931444
+166,Restaurante Español,La Musa Latina,40.41283455101768,-3.711767160452701
+167,Restaurante Español,El Capataz,40.44922481855915,-3.694212215458132
+168,Restaurante Español,La Tahona,40.45743209541343,-3.6927756620396965
+169,Restaurante Español,Alma Cheli,40.437099834696326,-3.699573791659644
+170,Restaurante Español,José Luis,40.44066774463155,-3.7154765342808393
+171,Restaurante Español,Jurucha,40.42775970528889,-3.685761676825428
+172,Restaurante Español,Taberna Cazorla,40.431385118848354,-3.678092538018028
+173,Restaurante Español,Lateral,40.423134880927655,-3.7008173605012677
+174,Restaurante Español,Restaurante Orgaz,40.454565853531776,-3.6223531108215696
+175,Restaurante Italiano,Ôven Mozzarella Bar,40.41924524133954,-3.697850087792749
+176,Restaurante Italiano,Pizzaiolo,40.42379534723904,-3.6985973307228566
+177,Restaurante Italiano,La Tavernetta,40.426076359147174,-3.69415593953856
+178,Restaurante Italiano,Pizzeria Italiana Piccolo Diavolo,40.4115292313695,-3.6955958500470047
+179,Restaurante Italiano,Nina Pasta Bar,40.409508,-3.7088362999999998
+180,Restaurante Italiano,Trattoria Malatesta,40.416788000000004,-3.707182
+181,Restaurante Italiano,la saletta,40.41163590801957,-3.6986855712936575
+182,Restaurante Italiano,Fellina,40.430752000000005,-3.6942720000000002
+183,Restaurante Italiano,Numa,40.42332677352945,-3.6836398220709303
+184,Restaurante Italiano,Trattoria In Crescendo,40.39458232012004,-3.698388094216957
+185,Restaurante Italiano,Trattoria Arcangelo,40.41336961522739,-3.690264245401984
+186,Restaurante Italiano,Flavia Restaurante & Bar,40.422473564482544,-3.689587219885726
+187,Restaurante Italiano,Trattoria Popolare,40.427535999999996,-3.700076
+188,Restaurante Italiano,La Mucca,40.427174,-3.701826
+189,Restaurante Italiano,Don Giovanni,40.407647999999995,-3.680188
+190,Restaurante Italiano,Orsomatto,40.43401289997741,-3.715631961822509
+191,Restaurante Italiano,Grosso Napoletano,40.42602629298818,-3.677053507474485
+192,Restaurante Italiano,La Tagliatella,40.419733347994544,-3.7067352654711048
+193,Restaurante Italiano,Pizzería Vesuvio,40.4205749566079,-3.700829195519843
+194,Restaurante Italiano,Bosco de Lobos,40.424150785649374,-3.699013994079728
+195,Restaurante Italiano,Matteo Cucina Italiana,40.427054401800795,-3.6857014357925983
+196,Restaurante Italiano,Aió,40.42245957839195,-3.7038750154039377
+197,Restaurante Italiano,Trattoria Manzoni,40.43970755160355,-3.6994823994839
+198,Restaurante Italiano,Grosso Napoletano,40.433806482172656,-3.698192419929712
+199,Restaurante Italiano,Numa Pompilio,40.423322999999996,-3.684077
+200,Restaurante Italiano,Restaurante A vÁnvera,40.43981959802888,-3.692768587460466
+201,Restaurante Italiano,Gioia Restaurante,40.422075,-3.6985900000000003
+202,Restaurante Italiano,Anema e Core,40.41798081014006,-3.7083301999038505
+203,Restaurante Italiano,Ôven Mozzarella Bar,40.40957081975896,-3.693256875486928
+204,Restaurante Italiano,Reginella,40.4449790213537,-3.6957598243400582
+205,Restaurante Italiano,Mercato Ballaró,40.43101226275812,-3.696988579668016
+206,Restaurante Italiano,Propaganda,40.420922,-3.6973300000000004
+207,Restaurante Italiano,Trattoria Pulcinella,40.42462332137474,-3.696495703869272
+208,Restaurante Italiano,Accademia Del Gusto,40.44291207911045,-3.6962358102437545
+209,Restaurante Italiano,Regno di Napoli Madrid,40.42787497934474,-3.7035077318229948
+210,Restaurante Italiano,La Mafia se sienta a la mesa,40.425704898432215,-3.6889452797866547
+211,Restaurante Italiano,Il Piccolino Della Farfalla,40.41404179984918,-3.700965423239417
+212,Restaurante Italiano,La Pasa,40.42709975350565,-3.7065657394546836
+213,Restaurante Italiano,La gula,40.42561108082784,-3.702243619772064
+214,Restaurante Italiano,Pizza Napoli,40.44868427705434,-3.674608511069212
+215,Restaurante Italiano,Oliveto,40.40971280938963,-3.696233463330332
+216,Restaurante Italiano,Casa Marco,40.43163197440936,-3.7157343735980213
+217,Restaurante Italiano,La Piperna,40.464159,-3.6931199999999995
+218,Restaurante Italiano,La Pentola Magica,40.405021000000005,-3.6827010000000002
+219,Restaurante Italiano,L'Isola Bella,40.42521495544206,-3.70322613250368
+220,Restaurante Italiano,La Nonna,40.456044386794154,-3.6887879251383238
+221,Restaurante Italiano,Premiata Fornería Ballaro,40.437753127606506,-3.6999572383017747
+222,Restaurante Italiano,Ti amo,40.47614256104356,-3.7069891339355134
+223,Restaurante Italiano,otto e undici,40.44184462582591,-3.698344121198792
+224,Restaurante Italiano,Trattoria La Famiglia,40.400662132957294,-3.7516301931197833
+225,Restaurante Italiano,Passaparola,40.38803168437286,-3.7658997381749333
+226,Restaurante Italiano,Novecento,40.39203801252386,-3.755396432561904
+227,Restaurante Italiano,Grazie Mille Kitchen Bar,40.41619934033112,-3.7075299017429737
+228,Restaurante Italiano,Pappone Trattoria,40.44403,-3.6543282999999995
+229,Restaurante Italiano,La Temeraria,40.41173973875753,-3.7002843618392944
+230,Restaurante Italiano,Maruzzella,40.44651099762922,-3.699573902625645
+231,Restaurante Italiano,A'Fenestella,40.46818813882213,-3.638646887029549
+232,Restaurante Italiano,trattoria La Forchetta,40.46542388075185,-3.692187662699696
+233,Restaurante Italiano,La Tagliatella,40.456382912657716,-3.6191111181555686
+234,Restaurante Italiano,La Tagliatella,40.439228,-3.673308
+235,Restaurante Italiano,Il Pastaio,40.441853234604956,-3.696923687996117
+236,Restaurante Italiano,El Kiosco de la Pizza,40.396978364554265,-3.765598730114114
+237,Restaurante Italiano,La Tagliatella,40.440464936430814,-3.6285495536538015
+238,Restaurante Italiano,La Tagliatella,40.448199196606566,-3.6953703568329312
+239,Restaurante Italiano,La Tagliatella,40.390959,-3.7011589999999996
+240,Restaurante Italiano,Ginos Dr Esquerdo 66,40.41376561895185,-3.6699056625366215
+241,Restaurante Italiano,La Tagliatella,40.363285780515625,-3.739275476043527
+242,Restaurante Italiano,La Mafia se sienta a la Mesa,40.47486409586766,-3.6876446960703855
+243,Restaurante Italiano,Finocchio Ristorante,40.40735996003684,-3.7041464066694783
+244,Restaurante Italiano,La Tagliatella,40.44401170932558,-3.655901254647969
+245,Restaurante Italiano,Il Pezzo Di Giuseppe,40.414872036622405,-3.7003879489003713
+246,Restaurante Italiano,Giulietta,40.46021896025268,-3.6323826762236417
+247,Restaurante Italiano,La Cocina De Payuri,40.40194839489197,-3.690625288617981
+248,Restaurante Italiano,L'Officina,40.39733109159207,-3.68324140387328
+249,Restaurante Italiano,Il Profumo,40.45651546085862,-3.6453540212010815
+250,Restaurante Italiano,L'Altro Mondo,40.43973027511157,-3.789925400759107
+251,Restaurante Italiano,Bresca,40.410817,-3.699323
+252,Restaurante Italiano,Toto e Peppino,40.42436242923625,-3.6952127178163776
+253,Restaurante Italiano,Il Bambino,40.39241845585657,-3.6660196308553754
+254,Restaurante Italiano,Ginos Ribera de Curtidores,40.40459928962177,-3.7067639286717298
+255,Restaurante Italiano,La Tagliatella,40.504101,-3.706669
+256,Restaurante Italiano,Piccola Roma,40.440242408630255,-3.7897475495793977
+257,Restaurante Italiano,La Nicoletta Ristorante-Pizza,40.42689135073129,-3.6898735829056326
+258,Restaurante Italiano,Restaurante Lapizza+sana,40.45743757388201,-3.6246136990835343
+259,Restaurante Italiano,Porca Miseria,40.402476,-3.7135199999999995
+260,Restaurante Italiano,La Trattoria di Aluche,40.39024159467983,-3.7530608370906315
+261,Restaurante Italiano,Pummarola,40.440845245855925,-3.7884298583827007
+262,Restaurante Italiano,Gaeta Caffè Pizzería,40.500544102,-3.671527462
+263,Restaurante Italiano,Lamucca,40.42316034658215,-3.704059721786604
+264,Restaurante Italiano,Ginos Méndez Álvaro,40.3927510444405,-3.6782559441417138
+265,Restaurante Italiano,La Bella Anna,40.5035898,-3.7052565000000004
+266,Restaurante Italiano,L'Angelina,40.456761704410994,-3.7845003922030847
+267,Restaurante Italiano,O Mamma Mia,40.39480732772427,-3.676478806234899
+268,Restaurante Italiano,Rock & Ribs,40.436830510346354,-3.6380368480176046
+269,Restaurante Italiano,Mia Rafaella Ristorante,40.46259591706578,-3.6374006859707366
+270,Restaurante Italiano,Piccolina,40.48375216597177,-3.70044225472674
+271,Restaurante Italiano,Restaurante OVO Ristorante,40.46479081553365,-3.7855363837110807
+272,Restaurante Italiano,Restaurante Fratelli,40.389381,-3.760396
+273,Restaurante Italiano,La Pizza Italia,40.40829580884911,-3.627882967816343
+274,Restaurante Italiano,Trattoria Di Aluche,40.388884053483906,-3.7660243209577686
+275,Palacio,Palacio Real de Madrid,40.417939720108535,-3.7142586708068848
+276,Palacio,Plaza de las Cortes,40.41577337519694,-3.696093259487371
+277,Palacio,Jardines de Sabatini,40.4199537391734,-3.7131262383435018
+278,Palacio,Palacio de Santoña,40.41397499632844,-3.7003796061480405
+279,Palacio,Hotel Único Madrid,40.42856013113933,-3.6864940765405785
+280,Palacio,Hotel Orfila,40.427027125141336,-3.6932027037384416
+281,Palacio,Museo Nacional Centro de Arte Reina Sofía (MNCARS),40.40873653580899,-3.693821769507456
+282,Palacio,Hotel Emperador Madrid,40.42142729711572,-3.707880298423348
+283,Palacio,CaixaForum Madrid,40.41101269430034,-3.6931765079498287
+284,Palacio,Hostal Luz,40.417397071266855,-3.7085456088998354
+285,Palacio,Republican Lamp Post,40.419664000000004,-3.713867
+286,Palacio,Paseo de las Estatuas,40.41666546228339,-3.687458038330078
+287,Metro Station,Andén Cero,40.43233402736354,-3.6976789573074513
+288,Metro Station,Metro Sol,40.416881555677016,-3.7030384601878987
+289,Metro Station,Metro Sevilla,40.41789417619993,-3.699404765231346
+290,Metro Station,Metro Embajadores,40.40475523832721,-3.702468924144448
+291,Metro Station,Metro Tirso de Molina,40.41238561913413,-3.7049683207761896
+292,Metro Station,Metro Madrid Línea 3,40.40992829279583,-3.702403395324045
+293,Metro Station,Metro Gran Vía,40.420020065824396,-3.7017938283759775
+294,Metro Station,Metro Antón Martín,40.411927625373714,-3.6980581283569336
+295,Metro Station,Metro Lavapiés,40.408399706379655,-3.70074232198958
+296,Metro Station,Metro Banco de España,40.41906508541828,-3.694330973950071
+297,Metro Station,Metro Callao,40.42016543090694,-3.7057899845796194
+298,Metro Station,Metro La Latina,40.41126847727361,-3.708396444709636
+299,Metro Station,Metro Ópera,40.41812353769271,-3.7094376293552016
+300,Metro Station,Metro Estación del Arte,40.409006950130696,-3.692424891585775
+301,Metro Station,Metro Chueca,40.422663535981506,-3.6976138174242887
+302,Metro Station,Metro Santo Domingo,40.42084177364492,-3.708150421015637
+303,Metro Station,Metro Puerta de Toledo,40.406850900175975,-3.7108560148593313
+304,Metro Station,Metro Atocha Renfe,40.40695083625721,-3.689387467787149
+305,Metro Station,Metro Noviciado,40.42477740373028,-3.7073322247181424
+306,Metro Station,Metro Estación de Chamberí,40.43229458790591,-3.6976372337750663
+307,Metro Station,El Abismo De Helm,40.42621538053006,-3.700917679784761
+308,Metro Station,Metro Tribunal,40.426204653944936,-3.7011261968260496
+309,Metro Station,Metro Acacias,40.40378672197676,-3.7065287777057434
+310,Metro Station,Metro Palos de la Frontera,40.40304742224402,-3.6941193644894432
+311,Metro Station,Metro Plaza de España,40.42348084124289,-3.7121368158177663
+312,Metro Station,Metro Retiro,40.4207597465696,-3.6858312785625458
+313,Metro Station,Metro Colón,40.425543923665536,-3.6911809444427486
+314,Metro Station,Metro Alonso Martínez,40.42757624091389,-3.6957608832393802
+315,Metro Station,Metro Madrid Línea 4,40.42705732176504,-3.6933539376326254
+316,Metro Station,Metro Madrid Línea 1,40.41155584753445,-3.697353191046533
+317,Metro Station,Metro Bilbao,40.42902129632324,-3.701867035011236
+318,Metro Station,Metro Serrano,40.42539249973215,-3.6876381490555565
+319,Metro Station,Metro Príncipe Pío,40.42127330979785,-3.719025624452134
+320,Metro Station,Metro San Bernardo,40.42981234805346,-3.7058381237053455
+321,Metro Station,Metro Ventura Rodríguez,40.427017066554214,-3.7136279028135775
+322,Metro Station,Metro Pirámides,40.401517748050296,-3.712786580358408
+323,Metro Station,Metro Delicias,40.39917382738943,-3.6941125788631264
+324,Metro Station,Metro Velázquez,40.42512215114281,-3.6834772537791354
+325,Metro Station,Metro Ibiza,40.418376133313686,-3.6780330527280696
+326,Metro Station,Metro Príncipe de Vergara,40.42298913134247,-3.6797684890814333
+327,Metro Station,Estación de Madrid-Puerta de Atocha,40.40646695335092,-3.689802940720376
+328,Metro Station,Metro Menéndez Pelayo,40.40446250842396,-3.6808060238632576
+329,Metro Station,Metro Quevedo,40.43334740821936,-3.704498582773271
+330,Metro Station,Metro Argüelles,40.43042371959808,-3.7159350514411926
+331,Metro Station,Metro Goya,40.42488050555113,-3.6775498879615336
+332,Metro Station,Metro Iglesia,40.43490906989403,-3.6985599921648435
+333,Metro Station,Metro Rubén Darío,40.433175186879005,-3.689262972567396
+334,Metro Station,Metro Nuevos Ministerios,40.44619324375705,-3.6923790149464097
+335,Metro Station,Metro Puerta del Ángel,40.413950937918905,-3.7271787698295142
+336,Metro Station,Metro Marqués de Vadillo,40.397324830258654,-3.715472520902516
+337,Metro Station,Metro Madrid Línea 6 Circular,40.429721119378,-3.6772712215486254
+338,Metro Station,Metro Arganzuela-Planetario,40.393138028533095,-3.688866415914649
+339,Metro Station,Metro Sáinz de Baranda,40.41511923434869,-3.6696249326159633
+340,Metro Station,Metro Legazpi,40.3915305822024,-3.6947881264027895
+341,Metro Station,Metro Pacífico,40.40154621177326,-3.6746834263032855
+342,Metro Station,Metro Alonso Cano,40.43843711893367,-3.6986463587574314
+343,Metro Station,Metro Canal,40.438345809295384,-3.7043030717675935
+344,Metro Station,Metro Lista,40.42922133754159,-3.675437660394494
+345,Metro Station,Metro Núñez de Balboa,40.43264732925246,-3.679497241973877
+346,Metro Station,Metro Conde de Casal,40.406949787789664,-3.670239838895808
+347,Metro Station,Madrid España,40.402805,-3.6725017999999996
+348,Metro Station,Metro Madrid Línea 10,40.4380520907568,-3.691507098209752
+349,Metro Station,Metro de Madrid S.A.,40.40570007,-3.670633
+350,Metro Station,Metro Gregorio Marañón,40.438050651972304,-3.6913880074058882
+351,Metro Station,Metro Moncloa,40.43456901463173,-3.7190267634172716
+352,Metro Station,Metro O'Donnell,40.422183797241395,-3.6689631430787526
+353,Metro Station,Metro Méndez Álvaro,40.3952962918784,-3.6784251985800007
+354,Metro Station,Metro Manuel Becerra,40.42662941600543,-3.670250478795358
+355,Metro Station,Metro Islas Filipinas,40.43914725897487,-3.7130624055862422
+356,Metro Station,Metro Lago,40.41641583469974,-3.7355986255348337
+357,Metro Station,Metro Diego de León,40.43242673606803,-3.6739560112788667
+358,Metro Station,Metro Ríos Rosas,40.442050083638776,-3.701167897167056
+359,Metro Station,Metro Urgel,40.393273240357814,-3.723728452998159
+360,Metro Station,Metro Usera,40.387025314069064,-3.706544812877085
+361,Metro Station,Metro Avenida de América,40.43797111884382,-3.678147845470835
+362,Metro Station,Metro Alto de Extremadura,40.409811002137005,-3.738983803206877
+363,Metro Station,Metro Puente de Vallecas,40.3952555284871,-3.66953084689336
+364,Metro Station,Metro Almendrales,40.384111889901305,-3.6979249179127223
+365,Metro Station,Metro Estrella,40.411176,-3.659498691558838
+366,Metro Station,Metro Madrid Línea 8 (Nuevos Ministerios - Aeropuerto),40.44547775237738,-3.6917669292191784
+367,Metro Station,Metro Madrid Línea 4,40.44386583879446,-3.717378699162302
+368,Metro Station,Metro Cuatro Caminos,40.44654494597261,-3.70363712310791
+369,Metro Station,Metro República Argentina,40.444844840040275,-3.6847700667057968
+370,Metro Station,Metro Ventas,40.43108665887628,-3.663422508660525
+371,Metro Station,Metro Madrid Línea 5,40.431113309128754,-3.663383674096726
+372,Metro Station,Metro Cartagena,40.439459432452786,-3.672210881847372
+373,Metro Station,Metro Guzmán el Bueno,40.44597860615664,-3.713338033705472
+374,Metro Station,Metro Opañel,40.38586411039761,-3.7212014780049127
+375,Metro Station,Metro Plaza Elíptica,40.38584590342171,-3.7212296875969
+376,Metro Station,Metro Nueva Numancia,40.39623899750952,-3.6636434102419217
+377,Metro Station,Metro Vicente Aleixandre,40.44637777947443,-3.7187417720793614
+378,Metro Station,Metro Oporto,40.38857314059954,-3.731085446385753
+379,Metro Station,Metro Ciudad Universitaria,40.44352553580991,-3.7269016254036655
+380,Metro Station,Metro Prosperidad,40.444189369088384,-3.674881160259247
+381,Metro Station,Metro Lucero,40.404656847637106,-3.745028972625733
+382,Metro Station,Metro Alvarado,40.45019628479489,-3.7034573794032055
+383,Metro Station,Metro Cruz del Rayo,40.446165585983714,-3.678088412859828
+384,Metro Station,Metro Vinateros,40.410349208321925,-3.652503490447998
+385,Metro Station,Metro Laguna,40.399304,-3.744713
+386,Metro Station,Metro Cuzco,40.45836775543061,-3.6902664649086487
