@@ -21,6 +21,7 @@ The data have been obtained from two different sources:
 ------
 
 
+
 ### 2.1. Foursquare API
 
 The service provided by the Foursquare API when called is to return data about the parameters we have passed (coordinates, update date, radius, search object and search limit).
