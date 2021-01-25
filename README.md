@@ -1,65 +1,71 @@
-# Proyecto Final IronHack - APP de alojamiento en Madrid
+# IronHack Final Project - APP for accommodation in Madrid
 
-## 1. Objetivo del proyecto
+## 1. Objective of the project
 
-Quieres ir a visitar una ciudad desconocida y entre las múltiples posibilidades de alojamiento ¿cuál eliges?.
+You are passionate about architecture and the history of cities. Whenever you can you become a tourist in another city. 
 
-El fin de esta APP es dar un mapa de localizaciones importantes como paradas de metro, museos de arte e historia, arte al aire libre, palacios, ... Todo aquello que haga de tu llegada a la casa un museo viviente.
+You have 3 days of vacation and you want to visit Madrid for the first time.
+
+This application allows you while looking for accommodation to see what elements of interest both conventional (metro stops, art and history museums) and unconventional (outdoor art, palaces, ...) you can find in the radius of km you choose.
 
 ---------------------------------
-<img src="../-final-proyect-/metro.jpeg">
+
+![Optional Text](../-final-proyect-/images/metro.jpeg)
 
 ---------------------------------
 
-## 2. Obtención de los datos
+## 2. Data collection
 
-Los datos han sido obtenidos de dos fuentes diferentes:
+The data have been obtained from two different sources:
 
 ------
 
 
-### 2.1. API Foursquare
+### 2.1. Foursquare API
 
-El servicio que presta la API de Foursquare al ser llamada es devolver datos acerca de los parámetros que hemos pasado(coordenadas,fecha de actualización, radio, objeto de búsqueda y limite de búsquedas)
+The service provided by the Foursquare API when called is to return data about the parameters we have passed (coordinates, update date, radius, search object and search limit).
 
--En el archivo **2_Sacar_BBDD** he creado una serie de funciones con el objetivo de obtener información pasando los parámetros que necesito,
+-In the **2_Sacar_BBDD** file I have created a series of functions with the objective of obtaining information by passing the parameters I need,
 
-    - Función 1: Hacer la llamada a la API
-    - Función 2: Limpiar el resultado de la Función 1 y ordenar
-    - Función 3: Crear un dataFrame con los datos de la Función 2, añadir un identificador para la categoría y generar un .cs para cada petición a la API.
+    - Function 1: Make the API call
+    - Function 2: Clean the result of the Function 1 and order
+    - Function 3: Create a dataFrame with the data from Function 2, add an identifier for the category and generate a .cs for each API request.
 
---En el archivo **3_Limpiar_Unir_BBDD** he revisado limpiado y concatenado todas las BBDD reseteando el índice.
+--In the **3_Clean_Unite_BBDD** file I have revised cleaned and concatenated all the DBs by resetting the index.
 
 
 
-----
 
-### 2.2. Datos de AirBnB
-
-Los datos de los airbnbs no son públicos, de hecho existe una API a la que no proporcionan acceso a menos que seas un propietario de un piso.
-
-Sin embargo, han sido obtenidos a través de la página http://insideairbnb.com/ en forma de .csv.
-
-Madrid se divide en 21 distritos.
-
-<img src="../-final-proyect-/portada.jpg">
-
-En el archivo **4.AirBnB** he organizado el dataset y he generado tres funciones:
-
-    - Función 4: Pasa filtros al .csv obtenido y devuelve una lista de airbnb con los filtros, permitiendo descartar los que no  los cumplen.
-    - Función 5: De la lista obtenida con todos los datos de Foursquare obtiene la distancia a los que se encuentran de las coordenadas del airbnb que hemos elejido.
-    - Función 6: Normaliza todos los strings de la columna nombre, elminando tildes, dieresis, ñ, ...
 
 ----
 
-En los sucesivos archivos de funciones(AIRBNB,API y MAPA) se encuentran las funciones para ser importadas directamente en el Jupyter Notebook.
+### 2.2. AirBnB data
 
-    Al importar el archivo de **funciones_FINAL** solo con introducir el código **airbnb_final()** se empieza a generar el programa completo.
+The airbnb data is not public, in fact there is an API to which they do not provide access unless you are an apartment owner.
 
-    Te hace una serie de preguntas sobre el Distrito, tipo de alojamiento, intervalo de precio,  minimo de noches de alojamiento, minimo de reseñas, radio máximo (en km) y cuantos identificadores de cada tipo deseas que muestre.
+However, they have been obtained through the page http://insideairbnb.com/ in the form of .csv.
 
-    Obtienes una lista de airbnbs con esas caracteristicas, y te pide introducir el id del airbnb elegido, para obtener como punto final el mapa.
+Madrid is divided into 21 districts.
 
-<img src="../-final-proyect-/foto_fin.png">
+![Optional Text](../-final-proyect-/images/portada.jpg)
+
+
+In the **4.AirBnB** file I have organized the dataset and generated three functions:
+
+    - Function 4: Passes filters to the obtained .csv and returns a list of airbnb with the filters, allowing to discard those that do not meet them.
+    - Function 5: From the list obtained with all the Foursquare data it obtains the distance to the coordinates of the airbnb we have chosen.
+    - Function 6: Normalizes all the strings of the column name, eliminating tildes, dieresis, ñ, ...
+
+----
+
+In the following function files (AIRBNB, API and MAP) are the functions to be imported directly into the Jupyter Notebook.
+
+    When importing the **FINAL_functions** file, just by entering the code **airbnb_final()** you start generating the complete program.
+
+    It asks you a series of questions about the District, type of accommodation, price range, minimum nights of accommodation, minimum reviews, maximum radius (in km) and how many identifiers of each type you want it to display.
+
+    You get a list of airbnbs with those characteristics, and it asks you to enter the id of the chosen airbnb, to get as an end point the map.
+
+![Optional Text](../-final-proyect-/images/foto_fin.png)
  
 
