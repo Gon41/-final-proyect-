@@ -11,7 +11,7 @@ This application allows you while looking for accommodation to see what elements
 ---------------------------------
 
 ![Optional Text](../-final-proyect-/images/metro.jpeg)
-https://raw.githubusercontent.com/Gon41/-final-proyect-/master/-final-proyect-/images/metro.jpeg
+https://raw.githubusercontent.com/Gon41/-final-proyect-/main/-final-proyect-/images/metro.jpeg
 
 ---------------------------------
 
