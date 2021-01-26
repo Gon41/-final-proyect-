@@ -10,7 +10,7 @@ This application allows you while looking for accommodation to see what elements
 
 ---------------------------------
 
-![Optional Text](../-final-proyect-/images/metro.jpeg)
+![](https://www.soy-de.com/images/thumbs/%c2%bfCu%c3%a1ndo-reabrir%c3%a1-la-estaci%c3%b3n-de-Metro-de-Gran-V%c3%ada-0040047.jpeg)
 
 ---------------------------------
 
@@ -48,7 +48,7 @@ However, they have been obtained through the page http://insideairbnb.com/ in th
 
 Madrid is divided into 21 districts.
 
-![Optional Text](../-final-proyect-/images/portada.jpg)
+![](https://i.pinimg.com/564x/01/49/e3/0149e31c7d2d025e8d486d1a4eec17b7.jpg)
 
 
 In the **4.AirBnB** file I have organized the dataset and generated three functions:
