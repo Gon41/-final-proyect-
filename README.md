@@ -69,4 +69,8 @@ In the following function files (AIRBNB, API and MAP) are the functions to be im
 
 ![Optional Text](../-final-proyect-/images/foto_fin.png)
  
+----
 
+# To look at the code:
+
+The functions are organized inside the .py files, drinking from each other to be able to call them more easily in the FINAL file (**final_exhibition.ipynb**).
